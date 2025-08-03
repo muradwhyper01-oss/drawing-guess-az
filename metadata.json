@@ -1,0 +1,4 @@
+{
+  "name": "Gemini Draw & Guess",
+  "description": "A real-time multiplayer 'Draw and Guess' game. One player draws a secret word, and others race to guess it first! Built with React and Socket.IO, featuring a colorful and interactive interface."
+}
